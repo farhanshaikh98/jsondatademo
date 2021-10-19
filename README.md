@@ -1,0 +1,2 @@
+# jsondatademo
+create model 
